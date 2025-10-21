@@ -1,6 +1,6 @@
 {
   "name": "@nrpub2025/foo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Foo is foo",
   "main": "index.js",
   "scripts": {
