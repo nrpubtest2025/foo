@@ -2,6 +2,9 @@
   "name": "@nrpub2025/foo",
   "version": "0.2.0",
   "description": "Foo is foo",
+  "repository": {
+    "url": "https://github.com/nrpubtest2025/foo"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
